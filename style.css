@@ -10,6 +10,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .width{
     width: 80%;
@@ -30,4 +31,26 @@ section{
 .top-banner{
     background-image: url(image/top-banner.png);
     background-repeat: no-repeat;
+}
+
+.right{
+    width: 70%;
+    text-align: justify;
+    padding: 100px 40px 0 0;
+    margin-bottom: 5px;
+}
+.big{
+    color: rgb(206, 66, 113);
+}
+.right a{
+    background-image: linear-gradient(palevioletred, tomato);
+    padding: 10px 40px;
+    background-color: orange;
+    border-radius: 7px;
+    text-decoration: none;
+    color: white;
+}
+.left img{
+    width: 100%;
+    text-align: justify;
 }
