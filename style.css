@@ -5,6 +5,9 @@ body{
 h1{
     font-size: 50px;
 }
+p{
+    font-size: 20px;
+}
 .orange-color{
     color: rgb(206, 66, 113);
 }
@@ -61,9 +64,6 @@ h1{
     background-image: url(image/exp-bg.png);
     background-repeat: no-repeat;
     margin-bottom: 150px;
-}
-.title{
-    color: orange;
 }
 .full-stack{
     width: 40%;
